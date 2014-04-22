@@ -1,0 +1,6 @@
+#Error screenshots
+*.png
+
+#history
+.irb_history
+test_servers
