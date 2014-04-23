@@ -28,8 +28,8 @@ What do you need to start?
 11. Generate debug.keystore iif missing, it be recreated in ANDROID_HOME with the following command:
 >keytool -genkey -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android -keyalg RSA -keysize 2048 -validity 10000 -dname "CN=Android Debug,O=Android,C=US"
 
-12. Resign apk: `calabash-android resign 'Clean Master_5.2.1.apk'`
+12. Resign apk: `calabash-android resign 'Clean Master_3.8.1.apk'`
 
 13. Connect Android device or Emulator with active USB debugging
 
-14. Run test `calabash-android run 'Clean Master_5.2.1.apk'`
+14. Run test `calabash-android run 'Clean Master_3.8.1.apk'`
