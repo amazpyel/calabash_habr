@@ -13,7 +13,7 @@ What do you need to start?
 
 4. Download Ant http://ant.apache.org/bindownload.cgi
 
-5. Add **ANT_HOME** system enviroment and add **%ANT_HOME**\bin to system **PATH**
+5. Add **ANT_HOME** system enviroment and add **%ANT_HOME%**\bin to system **PATH**
 
 6. Download Ruby 1.9.3 (**not 2.0!!!** ) http://rubyinstaller.org/downloads/
 
